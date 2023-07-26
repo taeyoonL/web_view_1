@@ -13,3 +13,5 @@
 9. 하단의 왼쪽에서 네번째 버튼을 누르면 이후 페이지로 이동한다.
 
 # 실행 화면
+
+![ezgif com-video-to-gif (3)](https://github.com/taeyoonL/web_view_1/assets/132141316/a025670b-1e45-456a-b5f5-6a1dfbde2a12)
